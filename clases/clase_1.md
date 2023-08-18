@@ -15,4 +15,24 @@ La primera de las formas bivarible que uno ven son:
 - Analisis discriminantes
 - Arbol de decisión
 
-Todas estas tiene 2 o más variables
+> Todas estas tiene 2 o más variables
+
+Promedio: Es el valor más representativo de un conjunto de datos (Pero es sensible a extremos)
+
+Varianza: Es lo mismo que el promedioteniendo en cuenta la variabilidad de los datos
+
+Tipos de variables:
+- Cualitativas
+    - Binaria
+    - Categorica
+
+- Cuantitativas
+    - Discreta
+    - Continua
+
+Una variable binaria, es aquella que está catalogada con 0 y 1 (Es dicotomica)
+
+Una variable categoria, es aquella que puede tener cualquier categoria (1, 2, 3, 4, 5, ...). Estas pueden ser ordinales o nominales, las nominales no implican sentido a un valor: {1: café, 2: chocolate, 3: almohada}. Por otro lado las ordinales implica sentido al valor {1: mal, 2: regular, 3: buen}
+
+Una variable cuantitativa es cuantificable, de modo que los valores pueden tomar cualquier valor dentro de un rango, ejemplo la temperatura es una variable cuantitativa continua: 27°C; mientras que una variable cuantitativa discreta es un valor asociado un valor dentro de un rango "Que calor tan hp", "que frio tan hp"
+
