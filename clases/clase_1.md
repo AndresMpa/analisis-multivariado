@@ -21,7 +21,8 @@ Promedio: Es el valor más representativo de un conjunto de datos (Pero es sensi
 
 Varianza: Es lo mismo que el promedioteniendo en cuenta la variabilidad de los datos
 
-Tipos de variables:
+## Tipos de variables
+
 - Cualitativas
     - Binaria
     - Categorica
@@ -36,3 +37,20 @@ Una variable categoria, es aquella que puede tener cualquier categoria (1, 2, 3,
 
 Una variable cuantitativa es cuantificable, de modo que los valores pueden tomar cualquier valor dentro de un rango, ejemplo la temperatura es una variable cuantitativa continua: 27°C; mientras que una variable cuantitativa discreta es un valor asociado un valor dentro de un rango "Que calor tan hp", "que frio tan hp"
 
+Una variable continua es que puede tomar cualquier valor. Sería cuando se puede tener cualquier valor dentro de un rango de X a Y
+
+Una variable discreta está enmarcada dentro de una escala de valores. Sería cuando se pueden tener solo ciertos tag que se refiere a unos rangos, es decir tiene unos "titulos" que se refieren a un intervalo de valores de X a Y
+
+> Este tipo de varaibles son usadas en estadistica univariada
+
+## La correlación
+
+Es la correlación existente entre un par de variables -1 <= x <= 1
+
+- Positiva: Significa que la relación es cercana a 1
+
+- Negativa: Significa que la relación es cercana a -1
+
+- 0: Significa que no hay una relación lineal
+
+La correlación mide la intesidad que hay entre un par de variables, es decir; que tanta intensidad entre un par de variables
