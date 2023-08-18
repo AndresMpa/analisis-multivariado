@@ -14,3 +14,5 @@ La primera de las formas bivarible que uno ven son:
 - Analisis de correspondencias
 - Analisis discriminantes
 - Arbol de decisión
+
+Todas estas tiene 2 o más variables
