@@ -1,1 +1,3 @@
-# analisis-multivariado
+# Analisis Multivariado
+
+Apuntes de analisis multivariado
