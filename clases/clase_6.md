@@ -1,4 +1,4 @@
-# Regresión logica
+# Regresión logica (Binaria)
  
 El Calculos de los compontes genera una Matriz de coeficientes0<
 de puntuación de componentes con la cual podemos determinar los
