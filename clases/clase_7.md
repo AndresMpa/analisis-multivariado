@@ -17,7 +17,7 @@ Lo que hace es clasificar de acuerdo a unas caracteristicas.
 
 ## ¿Para que sirve?
 
-- Clasificar
+- Clasificar grupos
 - Estudio de perfiles
 - Segmentación y posicionamiento
 - Comportamiento del consumidor
@@ -26,4 +26,3 @@ Lo que hace es clasificar de acuerdo a unas caracteristicas.
 - Desarrollo de nuevos productos
 
 > Homogenizar: Permite sesgar un conjunto de datos para tener determinadas caracteristicas en común
-
