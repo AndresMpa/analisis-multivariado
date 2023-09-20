@@ -25,3 +25,9 @@
 - Variables cunatitativas
 - Variables cualitativas
 - Sirve para clasificar elementos
+
+## Árbol
+
+Esto es muy parecido a una red neuronal, pero con la estructura de un árbol de busqueda binaria.
+
+Realmente lo que hace es ir clasificando de acuerdo con unas valoraciones que determinan el nivel de significacia
